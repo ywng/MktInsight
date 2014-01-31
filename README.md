@@ -3,7 +3,7 @@ MktInsight
 
 An API portal servlet for news 
 
-Making use of JSOUP library to scrap the Bloomberg News, and reorganise the collected news data into JSON format, which is returned using servlet get api call.
+Making use of JSOUP library to scrape the Bloomberg News, and reorganise the collected news data into JSON format, which is returned using servlet get api call.
 
 Currently, there are two workable API:
 1) Fetching daily asia news from Bloomberg (http://www.bloomberg.com/news/asia/)
